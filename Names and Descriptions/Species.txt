@@ -1,0 +1,9 @@
+There are 4 species in the universe
+
+Human - The human is the base species. As colonists, the human population on Mandar is relatively small, as the frozen wastes offer little shelter. Humans receive a bonus to health gain from water.
+
+Mandarian - The native Mandarian- or what is left, are roughly 2.5m tall, with a blue-grey appearance and elongated bodies and limbs. As they are native to the planet, they are resistant to the cold and thus reveive a bonus to warmth from heat.
+
+Zallus - The Zallus are an agrressive, hardy species from the Vandron system. Similar height to humans, they are described as having an almost squid-like appearance. Their flesh is a greenish tan, and they have 3 finger-like appendages on each hand. They receive a bonus to any food eaten towards stamina.
+
+Gren - The Gren are quiet, mostly peaceful. While not neccesarily fighters, they prefer trading and information to get what they desire, which, in itself, is not entirely known. They are short, only about 1.5m tall, greyish, and wear breathing masks. Theirs is a scientific species, and they get a bonus to any components found.
